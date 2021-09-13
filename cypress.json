@@ -1,0 +1,11 @@
+{
+  "chromeWebSecurity": false,
+  "defaultCommandTimeout": 5000,
+  "experimentalFetchPolyfill": true,
+  "componentFolder": "cypress/component",
+  "testFiles": "**/*.spec.*",
+  "video": true,
+  "env": {
+    "RETRIES": 0
+  }
+}
